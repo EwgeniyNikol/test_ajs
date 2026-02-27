@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-   "scripts": {
-   "start": "node src/index.js"
-},
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EwgeniyNikol/test_ajs.git"
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EwgeniyNikol/test_ajs/issues"
   },
-  "homepage": "https://github.com/EwgeniyNikol/test_ajs#readme"
+  "homepage": "https://github.com/EwgeniyNikol/test_ajs#readme",
+  "dependencies": {
+    "@ewgeniynikol/ajs": "^1.0.0"
+  }
 }
